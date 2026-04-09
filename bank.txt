@@ -1,0 +1,1 @@
+{1: {'name': 'Ivan', 'balance': 495.0}, 2: {'name': 'Oleg', 'balance': 80.0, 'password': 'qwerty'}, 3: {'name': 'Timur', 'balance': 900.0, 'password': 'y4mz169!@#'}}
